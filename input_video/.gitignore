@@ -1,0 +1,5 @@
+# Fichiers temporaires Python
+*.pyc
+__pycache__/
+spyproject/
+input_video/
